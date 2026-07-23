@@ -1,1 +1,16 @@
-face_rec/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets and large files
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.h5
+*.npy
+data/
+
+# Docker runtime
+*.log
