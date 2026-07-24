@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .vscode/
+lfw/
 # Datasets and large files
 *.jpg
 *.jpeg
@@ -14,3 +15,5 @@ data/
 
 # Docker runtime
 *.log
+
+#GottaSee
