@@ -1,3 +1,7 @@
+# Pasito a pasito, suave suavecito
+# Nos vamo' pegando, poquito a poquito
+# Cuando tú me besas con esa destreza
+# Veo que eres malicia con delicadez
 import cv2
 import os
 import uuid
