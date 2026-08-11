@@ -52,7 +52,7 @@ lfw/
 *.zip
 *.tar.gz
 *.rar
-
+.training_checkponts/
 # OS Files
 Thumbs.db
 .DS_Store
