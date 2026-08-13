@@ -105,3 +105,4 @@ coverage.xml
 /lfw/
 *.h5
 *.keras
+# ok
