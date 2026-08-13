@@ -103,3 +103,5 @@ coverage.xml
 .pytest_cache/
 
 /lfw/
+*.h5
+*.keras
