@@ -10,6 +10,7 @@ dist/
 downloads/
 data/
 
+training_checkpoints/
 eggs/
 .eggs/
 lib/
