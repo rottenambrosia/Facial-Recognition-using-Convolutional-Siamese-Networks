@@ -106,3 +106,4 @@ coverage.xml
 *.h5
 *.keras
 # ok
+application_data/
