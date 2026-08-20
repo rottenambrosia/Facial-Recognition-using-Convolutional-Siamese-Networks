@@ -1,3 +1,10 @@
+# Eleanor Rigby
+# Died in the church and was buried along with her name
+# Nobody came
+# Father McKenzie
+# Wiping the dirt from his hands as he walks from the grave
+# No one was saved
+
 # Import kivy dependencies 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout

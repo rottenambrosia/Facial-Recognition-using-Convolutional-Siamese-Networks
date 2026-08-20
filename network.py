@@ -1,10 +1,15 @@
+# Call off the search for your soul
+# Or put it on hold again
+# She's having a sly indoor smoke
+# And she calls the folks who run this, her oldest friends
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.layers import Conv2D, Dense, Flatten, Input, Layer, MaxPooling2D
 from tensorflow.keras.models import Model, Sequential
 
 
-class L1Distance(Layer):
+class L1_Distance(Layer):
     """Compute the absolute difference between two embeddings."""
 
     def __init__(self, **kwargs):

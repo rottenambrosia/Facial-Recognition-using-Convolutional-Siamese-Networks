@@ -86,6 +86,11 @@ Facial Recognition/
     |   `-- verification_images/       # enrollment gallery compared with the capture
     `-- __pycache__/                   # generated Python cache
 ```
+<br>
+This is how it looks on my end :
+
+![Image](Image.png)  
+<br>
 
 The `.gitignore` intentionally excludes datasets, checkpoints, virtual environments, and Keras model files. Keep personal face images and trained models out of source control unless you have an explicit reason and the required consent.
 
